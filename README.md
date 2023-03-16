@@ -11,5 +11,5 @@ The systems is designed to provide a medicine inventory management and alert sys
  
  To achieve this, 
 
-
-https://github.com/ChetanSrivatsaDammavalum/MeDiBoX/blob/Development/MeDiBoX%20-%20Use%20case%20diagram.png =500x500
+![Alt text](https://github.com/ChetanSrivatsaDammavalum/MeDiBoX/blob/Development/MeDiBoX%20-%20Use%20case%20diagram.png =500x500)
+<img src="[https://your-image-url.type](https://github.com/ChetanSrivatsaDammavalum/MeDiBoX/blob/Development/MeDiBoX%20-%20Use%20case%20diagram.png)" width="100" height="100">
