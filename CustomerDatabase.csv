@@ -1,0 +1,9 @@
+name,email_id,password,gender,date_of_birth,height,weight,doctor,device,dependents,caregiver
+Abhinav,Abhinav@gmail.com,Abhinav12345,m,15.09.1995,172,73,Dr_Samaram,,"[‘Chetan','Venky']",
+Chetan,Chetan@gmail.com,Chetan12345,m,26.02.1993,165,70,Dr_Kasi,,"['Venky', 'Abhinav']",
+Venky,Venky@gmail.com,Venky12345,m,19.03.1994,173,71,Dr_Samaram,,"[ 'Abhinav','Chetan']",
+Anjana_Pandit,Anjana@gmail.com,Anjana12345,f,02.11.1995,150,52,Dr_Anjali,,"['Chetan', 'Venky']",
+Palani,Palani@gmail.com,Palani12345,m,07.09.1997,162,62,Dr_Vikram,,"['Chetan', 'Abhi']",
+Gandhi_Mahan,Gandhi@gmail.com,Gandhi12345,m,02.10.2000,162,65,Dr_Bobby,,"['Anjana', 'Palani']",
+Radha,Radha@gmail.com,Radha12345,f,15.11.1994,160,54,Dr_Krishna,,"['Chetan', 'Anjana']",
+Bobbu_Simha,Bobby@gmail.com,Bobby12345,m,26.02.1993,165,75,Dr_Gandhi,,['Gandhi'],
