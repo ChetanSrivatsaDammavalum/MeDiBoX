@@ -355,6 +355,14 @@ def modify_dependents(cs, uc,df):
             break
 def view_dependents_prescription(uc):
     for dependent in uc.dependents:
+        get_dependent_prescription(dependent)
+
+def get_dependent_prescription(dependent):
+    
+    prescription_data_dict = read_prescriptiondata(user_data.email_id)# Type:  dictionary !! chaneg to class object type
+    #print('!!!! filtered prescription data in dictionary form: \n',prescription_data_dict )
+    prescription_data = generate_prescription_obj(prescription_data_dict)
+
 
 #---------------------------User_informantion_menu--------------------------
 
