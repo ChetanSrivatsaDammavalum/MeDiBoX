@@ -36,7 +36,7 @@ To achieve these core functionalities, the system is envisioned to utlize web ba
  The application takes in user & prescription information which are stored in a local database. The user can view personal data, prescription information, modify or add new perscriptions and assign dependents. The application notifies the user to refill medicine, take specific medicine at the prescribed times and records if the user fails to acknowledge the notification(considered as 'missed dose'). The user can be assigned the roles of caregiver and/or dependent. A cargiver can view the prescription of the dependent and also the record of 'missed doses'. The caregiver can have a maximum of 5 dependents and can be a dependent themselves to another caregiver.  
  
  The use cae diagram for the application is shown below. It shows the various functionalities in the application and actors interacting with the application. 
- <img src="https://github.com/ChetanSrivatsaDammavalum/MeDiBoX/blob/Development/MeDiBoX%20-%20Use%20case%20diagram.png" width="900" height="700">
+ <img src="https://github.com/ChetanSrivatsaDammavalum/MeDiBoX/blob/main/MeDiBoX%20-%20Use%20case%20diagram.png" width="900" height="700">
  
 The applciation is programmed with the object oriented paradigm and follows the microservice architecture. The applciation uses dedicated services to access user database & user prescription, user creation/handling, prescription creation/handling and user interface. The class diagram for the application progra is shown below.
 
